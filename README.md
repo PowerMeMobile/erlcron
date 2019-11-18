@@ -1,5 +1,5 @@
 Erlcron
-=======
+======= 
 
 Erlcron provides testable cron like functionality for Erlang
 systems, with the ability to arbitrarily set the time and place along
